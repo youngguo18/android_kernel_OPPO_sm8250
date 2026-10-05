@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=kona kernel by youngguo and ApexLegend007  from SID (Siddhant221  @ xda-developers)
+kernel.string=kona kernel by FyLayzx  |  base kernel: youngguo18  |  root: ReSukiSU/BakaSU (3rd-party)  |  credits: ApexLegend007 & SID (Siddhant221 @ xda-developers)
 do.devicecheck=0
 do.modules=0
 do.systemless=0
