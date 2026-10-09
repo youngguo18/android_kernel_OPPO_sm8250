@@ -1643,9 +1643,7 @@ struct task_struct {
 
 	/* CPU-specific state of this task: */
 	struct thread_struct		thread;
-#if defined(CONFIG_KSU_SUSFS)
-	u64 android_kabi_reserved8;
-#endif
+
 	/*
 	 * WARNING: on x86, 'thread_struct' contains a variable-sized
 	 * structure.  It *MUST* be at the end of 'task_struct'.

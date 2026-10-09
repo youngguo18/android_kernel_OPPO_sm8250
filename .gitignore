@@ -140,3 +140,10 @@ kernel/configs/android-*.cfg
 #Ignoring Android.bp link file
 #
 Android.bp
+
+# --- kona: build outputs & external KSU source (never commit) ---
+out/
+out*/
+KernelSU/
+drivers/kernelsu
+*.zip
